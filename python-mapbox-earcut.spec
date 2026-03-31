@@ -14,6 +14,7 @@ Source0:	https://files.pythonhosted.org/packages/source/m/%{module}/%{oname}-%{v
 
 BuildSystem:	python
 BuildRequires:	cmake
+BuildRequires:	cmake(tsl-robin-map)
 BuildRequires:	ninja
 BuildRequires:	dos2unix
 BuildRequires:	python
