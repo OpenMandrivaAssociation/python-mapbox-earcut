@@ -5,7 +5,7 @@
 
 Name:		python-mapbox-earcut
 Version:	2.0.0
-Release:	1
+Release:	2
 Summary:	Python bindings for the mapbox earcut C++ polygon triangulation library
 License:	None
 Group:		Development/Python
